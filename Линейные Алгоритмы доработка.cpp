@@ -11,8 +11,6 @@
 
 using namespace std;
 
-
-
 int main() {
     
     double a;
@@ -56,4 +54,5 @@ int main() {
     cout << "General formula: R = " << R_general << endl;
     
     return 0;
+
 }
